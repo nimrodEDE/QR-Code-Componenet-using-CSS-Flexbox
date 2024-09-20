@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
   margin: 0;
   box-sizing: border-box;
@@ -50,3 +51,56 @@ a {
   text-decoration: none;
   color: #1f314f;
 }
+=======
+* {
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Outfit";
+}
+
+body {
+  background-color: #d5e1ef;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  width: 320px;
+  height: 500px;
+  background-color: #fff;
+  margin: auto 0;
+  border-radius: 20px;
+}
+
+img {
+  width: 90%;
+  height: 60%;
+  display: block;
+  margin: 17px auto;
+
+  border-radius: 15px;
+}
+
+header {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 120%;
+  color: #1f314f;
+  text-wrap: wrap;
+  padding: 0 15px;
+  text-align: center;
+}
+
+p {
+  padding: 20px;
+  text-align: center;
+  color: #68778d;
+}
+
+a {
+  text-decoration: none;
+  color: #1f314f;
+}
+>>>>>>> 8acdb09511f76eb11831531841416ba24bd7f039
